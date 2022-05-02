@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and C#.
 - 📫 How to reach me: ask for my discord or my email address
 - 😄 Pronouns: he/him
+- ⚡ Fun fact:
                    .---.
               (\./)     \.......-
               >' '<  (__.'""""BP
@@ -20,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and C#.
 - 📫 How to reach me: ask for my discord or my email address
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:
+
