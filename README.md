@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and C#.
 - 📫 How to reach me: ask for my discord or my email address
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a unicorn stuffie (appropriately named Sir.Oreo-Timtams I) that helps me with programming
                    .---.
               (\./)     \.......-
               >' '<  (__.'""""BP
@@ -21,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and C#.
 - 📫 How to reach me: ask for my discord or my email address
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a unicorn stuffie (appropriately named Sir.Oreo-Timtams I) that helps me with programming
+- ⚡ Fun fact:
