@@ -17,8 +17,8 @@ Here are some ideas to get you started:
               " ` " "
 -->
 - 🎓 I'm a Software Engineering Student.
-- 🔭 I’m currently working on making a calculator discord bot! 
-- 🌱 I’m currently learning Java and C#.
+- 🔭 I’m currently working on making a platformer game. 
+- 🌱 I’m currently learning Python and Javascript.
 - 📫 How to reach me: ask for my discord or my email address
 - 😄 Pronouns: he/him
 
